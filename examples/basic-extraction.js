@@ -2,7 +2,7 @@
  * SmartSchema Extract API — Basic Example (Node.js / ES Modules)
  * 
  * Extracts structured order data from plain text.
- * Get your free API key at: https://rapidapi.com/TU_USUARIO/api/smartschema-extract
+ * Get your free API key at: https://rapidapi.com/sergiocalvog/api/smartschema-extract
  */
 
 const RAPIDAPI_KEY  = 'YOUR_RAPIDAPI_KEY_HERE'; // Replace with your key

@@ -4,7 +4,7 @@
  * Parses an invoice text into structured JSON fields.
  * Ideal for: accounting automation, ERP integrations, document processing pipelines.
  * 
- * Subscribe: https://rapidapi.com/TU_USUARIO/api/smartschema-extract
+ * Subscribe: https://rapidapi.com/sergiocalvog/api/smartschema-extract
  */
 
 const RAPIDAPI_KEY  = 'YOUR_RAPIDAPI_KEY_HERE';

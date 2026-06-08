@@ -4,7 +4,7 @@
  * Extracts product data from raw HTML or plain product description text.
  * Useful for: price monitoring, catalog normalization, competitor analysis.
  * 
- * Subscribe: https://rapidapi.com/TU_USUARIO/api/smartschema-extract
+ * Subscribe: https://rapidapi.com/sergiocalvog/api/smartschema-extract
  */
 
 const RAPIDAPI_KEY  = 'YOUR_RAPIDAPI_KEY_HERE';

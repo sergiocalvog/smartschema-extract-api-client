@@ -3,9 +3,9 @@
 > **Convert unstructured text to validated JSON using AI.**
 > Extract structured data from any text, HTML, PDF content, or email — powered by Google Gemini Structured Output.
 
-[![RapidAPI Badge](https://img.shields.io/badge/Available%20on-RapidAPI-blue?style=flat-square)](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)
+[![RapidAPI Badge](https://img.shields.io/badge/Available%20on-RapidAPI-blue?style=flat-square)](https://rapidapi.com/sergiocalvog/api/smartschema-extract)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![API Version](https://img.shields.io/badge/API-v1.0.0-orange)](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)
+[![API Version](https://img.shields.io/badge/API-v1.0.0-orange)](https://rapidapi.com/sergiocalvog/api/smartschema-extract)
 
 ---
 
@@ -29,7 +29,7 @@ No more brittle regex. No more manual parsing. Just send your text and your desi
 
 ### 1. Get your free API key
 
-Subscribe at: **[rapidapi.com → SmartSchema Extract API](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)**
+Subscribe at: **[rapidapi.com → SmartSchema Extract API](https://rapidapi.com/sergiocalvog/api/smartschema-extract)**
 
 The **Free plan** includes 50 requests/month at no cost.
 
@@ -95,7 +95,7 @@ console.log(data);
 | Growth | $49/mo | 25,000 | 50,000 chars |
 | Business | $149/mo | 100,000 | 100,000 chars |
 
-**[View all plans and subscribe →](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)**
+**[View all plans and subscribe →](https://rapidapi.com/sergiocalvog/api/smartschema-extract)**
 
 ---
 
@@ -132,4 +132,4 @@ Issues and PRs are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 MIT © 2025
 
-**API on RapidAPI:** [rapidapi.com → SmartSchema Extract API](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)
+**API on RapidAPI:** [rapidapi.com → SmartSchema Extract API](https://rapidapi.com/sergiocalvog/api/smartschema-extract)

@@ -18,4 +18,4 @@ Thank you for your interest in contributing!
 
 ## Questions?
 
-Open a Discussion or reach us via [RapidAPI support](https://rapidapi.com/TU_USUARIO/api/smartschema-extract).
+Open a Discussion or reach us via [RapidAPI support](https://rapidapi.com/sergiocalvog/api/smartschema-extract).

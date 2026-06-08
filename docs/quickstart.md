@@ -2,7 +2,7 @@
 
 ## 1. Get your API key
 
-Subscribe (free) at: **[rapidapi.com → SmartSchema Extract API](https://rapidapi.com/TU_USUARIO/api/smartschema-extract)**
+Subscribe (free) at: **[rapidapi.com → SmartSchema Extract API](https://rapidapi.com/sergiocalvog/api/smartschema-extract)**
 
 The Free plan includes 50 requests/month at $0.
 
@@ -39,7 +39,7 @@ curl -X POST https://smartschema-extract.p.rapidapi.com/v1/extract \
     "status": "shipped"
   },
   "meta": {
-    "model": "gemini-1.5-flash",
+    "model": "gemini-2.5-flash",
     "input_chars": 65,
     "processing_ms": 598
   }

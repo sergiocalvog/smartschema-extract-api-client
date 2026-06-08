@@ -4,7 +4,7 @@ SmartSchema Extract API — Email Entity Extractor (Python)
 Extracts structured entities from email bodies: dates, contacts, budgets, links.
 Useful for: CRM automation, calendar integration, invoice detection in email.
 
-Subscribe: https://rapidapi.com/TU_USUARIO/api/smartschema-extract
+Subscribe: https://rapidapi.com/sergiocalvog/api/smartschema-extract
 """
 
 import requests
