@@ -4,7 +4,7 @@
 > Extract structured data from any text, HTML, PDF content, or email — powered by Google Gemini Structured Output.
 
 [![RapidAPI Badge](https://img.shields.io/badge/Available%20on-RapidAPI-blue?style=flat-square)](https://rapidapi.com/sergiocalvog/api/smartschema-extract-api)
-[![Apify Actor](https://img.shields.io/badge/Available%20on-Apify%20Store-orange?style=flat-square)](https://apify.com/OliCan/smartschema-extract)
+[![Apify Actor](https://img.shields.io/badge/Available%20on-Apify%20Store-orange?style=flat-square)](https://apify.com/olican/smartschema-extract)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![API Version](https://img.shields.io/badge/API-v1.0.0-orange)](https://rapidapi.com/sergiocalvog/api/smartschema-extract-api)
 
@@ -36,7 +36,7 @@ Perfect for standard API integration where you pay a fixed monthly subscription 
 
 ### 2. Apify Store (Pay-Per-Event + No-Code UI)
 Ideal if you want to run extractions via a visual form, integrate with n8n/Make native nodes, or pay purely per event ($0.01 per run). Uses your own Google AI Studio API Key.
-👉 **[Run on Apify Store](https://apify.com/OliCan/smartschema-extract)**
+👉 **[Run on Apify Store](https://apify.com/olican/smartschema-extract)**
 
 ---
 
@@ -148,4 +148,4 @@ Issues and PRs are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 MIT © 2025
 
 **API on RapidAPI:** [rapidapi.com → SmartSchema Extract API](https://rapidapi.com/sergiocalvog/api/smartschema-extract-api)  
-**Actor on Apify:** [apify.com → SmartSchema Extract Actor](https://apify.com/OliCan/smartschema-extract)
+**Actor on Apify:** [apify.com → SmartSchema Extract Actor](https://apify.com/olican/smartschema-extract)
